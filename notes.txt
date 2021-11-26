@@ -1,0 +1,7 @@
+
+npm config set python D:\Programs\Python27\python.exe
+npm rebuild node-sass
+
+ npm install -g windows-build-tools
+
+ npm install --save-dev  --unsafe-perm node-sass
